@@ -1,0 +1,9 @@
+# 这是部署目录（只放构建产物），下面的内容不应该提交
+.DS_Store
+Thumbs.db
+*.log
+
+# 本地工具/编辑器状态
+.claude/
+.vscode/
+.idea/

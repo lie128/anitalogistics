@@ -1,0 +1,16 @@
+{
+  "name": "Anita 国际物流",
+  "short_name": "Anita 物流",
+  "description": "中国寄美英欧加 · DDP 双清包税到门",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EAEEF1",
+  "theme_color": "#0F2A44",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
