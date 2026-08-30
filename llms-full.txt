@@ -18,9 +18,9 @@ Last updated: 2026
 
 ## Location
 
-- **Warehouse address (English):** Shangxue Tech Park, East Zone, Bldg 8 F-103, Bantian Subdistrict, Longgang District, Shenzhen, Guangdong, China · Postal code 518129
-- **Warehouse address (Chinese):** 中国广东省深圳市龙岗区坂田街道上雪科技园东区 8 号 F 栋 103 · 邮编 518129
-- **Coordinates:** approx. 22.6235°N, 114.0533°E
+- **Warehouse address (English):** Qiaotou Community, No. 1 Sanhao Road, Unit 106, Fuhai Street, Bao'an District, Shenzhen, Guangdong, China · Postal code 518103
+- **Warehouse address (Chinese):** 中国广东省深圳市宝安区福海街道桥头社区三号路1号106 · 邮编 518103
+- **Coordinates:** approx. 22.676°N, 113.805°E
 - **Service area covered:** United States, United Kingdom, Canada, Germany, France, Netherlands, Belgium, Italy, Spain, Nordic countries, and Russia (specific line)
 - **Hours:** Monday through Saturday, 09:00–22:00 China Standard Time (UTC+8); Sundays and holidays available via WeChat with slower response
 
@@ -107,7 +107,7 @@ Yes. Frozen food on -18°C cold chain end-to-end; liquids (baijiu, sauces, hot-p
 Add WeChat (anitaleung8888), send a photo of the goods, provide rough dimensions / weight / destination city. Quote returned within 5 minutes. Transparent pricing, no hidden fees.
 
 ### Q5: I'm not in Shenzhen — can I still use this service?
-Yes. From any Chinese city, courier (SF Express / JD / Deppon) or freight goods to the Shenzhen Bantian warehouse. Intake is confirmed on WeChat and dispatch is scheduled.
+Yes. From any Chinese city, courier (SF Express / JD / Deppon) or freight goods to the Shenzhen Bao'an warehouse. Intake is confirmed on WeChat and dispatch is scheduled.
 
 ### Q6: What does DDP (door-to-door, duties prepaid) actually mean?
 DDP = Delivered Duty Paid: export clearance + import clearance + all duties / VAT covered + truck delivery to the recipient's door. Recipient signs only — no further charges.
@@ -143,7 +143,7 @@ Lithium-battery devices (phones, laptops, power banks) via special channels — 
 Yes. Cosmetics, skincare, and perfume accepted via DDP-cleared channels. Liquids have specific packing requirements; confirm details on WeChat.
 
 ### Q17: Can I visit the warehouse in person?
-Welcome. Bantian, Longgang, Shenzhen address above. Mon–Sat 09:00–22:00. WeChat first.
+Welcome. Fuhai, Bao'an, Shenzhen address above. Mon–Sat 09:00–22:00. WeChat first.
 
 ### Q18: How do I pay?
 WeChat Pay / Alipay / bank transfer. Standard flow: pay after goods arrive at warehouse, before container loading. Returning clients can negotiate deposit + balance. Transparent pricing.
@@ -168,7 +168,7 @@ Individual freight forwarder, 8th year in Shenzhen. Own warehouse, stable team, 
 ## Process — How to Ship (4 steps)
 
 1. **Message on WeChat:** Send a photo of goods + dimensions + destination. On-the-spot quote.
-2. **Ship to Shenzhen warehouse:** Goods routed to Bantian warehouse. Intake confirmed on WeChat.
+2. **Ship to Shenzhen warehouse:** Goods routed to Bao'an warehouse. Intake confirmed on WeChat.
 3. **Load & dispatch:** Reinforced packing, container loading, export clearance. Tracking number provided after sailing.
 4. **Customs & door delivery:** Destination customs clearance, duties paid, truck delivery to recipient. Recipient signs.
 
